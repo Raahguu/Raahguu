@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Raahguu 👋
+
+(also called Joshua Finlayson)
 
 <!--
 **Raahguu/Raahguu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### about me
+
+I am an ECU student studying cyber security. I like programming, and CTFs. I have been programming for 7 years now (as of 2025) and these days my main language used is python.
